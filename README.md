@@ -1,4 +1,3 @@
-# Skills :
-## Vulnerability Research & Security Research .
-## Ai Enabled .
-## Open Source Contributor 
+# Vulnerability Research & Security Research ( Web ) .
+# Ai Enabled .
+# Open Source Contributor .
